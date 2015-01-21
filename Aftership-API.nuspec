@@ -12,7 +12,7 @@
     <copyright>Copyright 2014</copyright>
     <tags>Aftership Track Tracking Courier Couriers</tags>
     <dependencies>
-      <dependency id="Newtonsoft.Json" version="3.5.8" />
+      <dependency id="Newtonsoft.Json" version="6.0.8" />
     </dependencies>
     <frameworkAssemblies>
       <frameworkAssembly assemblyName="System.Web" targetFramework="net40" />
